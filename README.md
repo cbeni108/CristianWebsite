@@ -1,2 +1,2 @@
 # CristianWebsite
-https://cristiansite.azurewebsites.net
+https://cristiansite.azurewebsites.net/mysjon.json
